@@ -1,0 +1,6 @@
+owner=598238176536166401
+prefix=!
+game=Aya Love All
+stayinchannel=true
+songinstatus=false
+token=NTk4MjM4MTc2NTM2MTY2NDAx.XSTwyA.-B23pGb7ieNbqQ1iFjkg9PU7xjg
